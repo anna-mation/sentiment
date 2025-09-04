@@ -1,0 +1,23 @@
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\bin\Debug\sentiment analysis v3.exe.config
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\bin\Debug\sentiment analysis v3.exe
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\bin\Debug\sentiment analysis v3.pdb
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\bin\Debug\Porter2Stemmer.dll
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\bin\Debug\Porter2Stemmer.pdb
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\bin\Debug\Porter2Stemmer.xml
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment analysis v3.csproj.AssemblyReference.cache
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment analysis v3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment_analysis_v3.Form1.resources
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment_analysis_v3.Properties.Resources.resources
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment analysis v3.csproj.GenerateResource.cache
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment analysis v3.csproj.CoreCompileInputs.cache
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment analysis v3.csproj.CopyComplete
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment analysis v3.exe
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment analysis v3.pdb
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment_analysis_v3.Form2.resources
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment_analysis_v3.Form3.resources
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment_analysis_v3.Form4.resources
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment_analysis_v3.Form5.resources
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\obj\Debug\sentiment_analysis_v3.Form6.resources
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\bin\Debug\Syroot.KnownFolders.dll
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Anna Dong\source\repos\sentiment analysis v3\sentiment analysis v3\bin\Debug\Syroot.KnownFolders.xml
